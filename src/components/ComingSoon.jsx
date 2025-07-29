@@ -39,7 +39,7 @@ const ComingSoon = () => {
         <div className="mb-8 animate-fade-in">
           <div className="mb-6">
             <img
-              src="/src/assets/cmOm.webp"
+              src="/src/assets/cmomjpg.jpg"
               alt="Chinmaya Mission Vasai"
               className="w-24 h-24 mx-auto rounded-full shadow-lg border-4 border-white dark:border-gray-700"
             />
@@ -98,8 +98,8 @@ const ComingSoon = () => {
               Spiritual Journey Awaits
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-              We're building something extraordinary for our spiritual community. Our new website will feature 
-              upcoming events, spiritual resources, community activities, and much more to support your 
+              We're building something extraordinary for our spiritual community. Our new website will feature
+              upcoming events, spiritual resources, community activities, and much more to support your
               journey with Chinmaya Mission Vasai.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
