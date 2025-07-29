@@ -49,19 +49,19 @@ const ComingSoon = () => {
               Vasai
             </span>
           </h1>
-          <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-2">
+          {/* <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-2">
             Something Amazing is Coming
-          </p>
+          </p> */}
           <div className="flex items-center justify-center gap-2 text-lg text-gray-500 dark:text-gray-400">
             <FaCalendarAlt />
-            <span>Launching August 3rd, 2025</span>
+            <span className='font-bold'>Launching August 3rd, 2025</span>
           </div>
         </div>
 
         {/* Countdown Timer */}
         <div className="mb-12 animate-slide-up">
           <h2 className="text-2xl sm:text-3xl font-semibold text-gray-800 dark:text-white mb-8">
-            Get Ready for Launch
+            Coming to you in...
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6 max-w-2xl mx-auto">
             {[
@@ -126,9 +126,7 @@ const ComingSoon = () => {
           <p className="mb-2">
             © 2025 Chinmaya Mission Vasai. All rights reserved.
           </p>
-          <p className="text-sm">
-            Spreading spiritual wisdom and fostering community growth.
-          </p>
+
         </div>
 
         {/* Custom Animations */}
