@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add dark mode styles */
+body {
+  @apply bg-white text-black;
+}
+
+body.dark {
+  @apply bg-gray-900 text-white;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Add to src/index.css or src/App.css */
+.compact-layout .gap-reducer {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,4 @@
+This is a placeholder for the donation QR code.
+Please replace this file with the actual UPI QR code image.
+Recommended size: 256x256 pixels
+Format: JPG or PNG
