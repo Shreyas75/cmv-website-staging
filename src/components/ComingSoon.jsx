@@ -39,7 +39,7 @@ const ComingSoon = () => {
         <div className="mb-8 animate-fade-in">
           <div className="mb-6">
             <img
-              src="/public/cmomjpg.jpg"
+              src="/cmomjpg.jpg"
               className="w-24 h-24 mx-auto rounded-full shadow-lg border-4 border-white dark:border-gray-700"
             />
           </div>
