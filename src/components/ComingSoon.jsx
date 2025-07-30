@@ -10,7 +10,7 @@ const ComingSoon = () => {
   });
 
   // Launch date: August 3rd, 2025
-  const launchDate = new Date('2025-08-03T18:00:00').getTime();
+  const launchDate = new Date('2025-08-03T12:30:00Z').getTime();
 
   useEffect(() => {
     const timer = setInterval(() => {
