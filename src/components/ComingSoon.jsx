@@ -54,7 +54,7 @@ const ComingSoon = () => {
           </p> */}
           <div className="flex items-center justify-center gap-2 text-lg text-gray-500 dark:text-gray-400">
             <FaCalendarAlt />
-            <span className='font-bold'>Launching August 3rd, 2025 at 6:00 PM</span>
+            <span className='font-bold'>Launching August 3rd, 2025 at 6:00 PM IST</span>
           </div>
         </div>
 
