@@ -10,7 +10,7 @@ const ComingSoon = () => {
   });
 
   // Launch date: August 3rd, 2025
-  const launchDate = new Date('2025-08-03T00:00:00').getTime();
+  const launchDate = new Date('2025-08-03T18:00:00').getTime();
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -54,7 +54,7 @@ const ComingSoon = () => {
           </p> */}
           <div className="flex items-center justify-center gap-2 text-lg text-gray-500 dark:text-gray-400">
             <FaCalendarAlt />
-            <span className='font-bold'>Launching August 3rd, 2025</span>
+            <span className='font-bold'>Launching August 3rd, 2025 at 6:00 PM</span>
           </div>
         </div>
 
